@@ -1,0 +1,2 @@
+# CPU-Scheduling-Simulator
+This program reads a text file with lines of numbers mimicking processes running on a CPU.  FCFSNP (first come first serve non-preemptive), FCFSP (first come first server preemptive), or SJNP (shortest job next preemptive) can be chosen as the scheduling algorithm.  Statistics are available after the simulation has run, such as average turn around time, max wait time, and average response time.
