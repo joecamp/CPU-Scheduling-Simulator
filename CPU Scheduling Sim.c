@@ -665,7 +665,7 @@ int main() {
             printf("%d", maxWaitTime);
             printf("\n");
     }
-    else printf("Failure, file couldn't be found.\n");
+    else printf("Failure, file couldn't be found!\n");
 
     return 0;
 }
